@@ -68,3 +68,21 @@ npm run preview
 **Brand Colors**: Always use `#002b5c` (navy) and `#c5a059` (gold) for consistency
 
 **Korean Content**: All user-facing text is in Korean - maintain language consistency when editing content
+
+## Recent Changes
+
+**Last Updated**: 2026-01-08
+
+### Completed Work
+- Tailwind CSS migrated from CDN to production setup (v3.4.1)
+- Project restructured with `src/` directory
+- Git repository created: https://github.com/axconkr/rutinEDU
+- Vercel auto-deployment configured
+- See `DEVELOPMENT_LOG.md` for detailed work history
+
+### Key Files Added
+- `DEVELOPMENT_LOG.md` - Complete development history and troubleshooting guide
+- `tailwind.config.js` - Tailwind configuration with brand colors
+- `postcss.config.js` - PostCSS plugin configuration
+- `src/index.css` - Tailwind imports and custom styles
+- `.gitignore` - Git exclusion rules
